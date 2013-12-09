@@ -1,0 +1,18 @@
+.ls-layer,
+.ls-layer * {
+    font-family: Arial, Serif;
+    white-space: nowrap;
+    font-weight: normal;
+    text-shadow: none;
+}
+
+.menu_back{
+    width: 100%;
+    height: 100px;
+    background-image:url('/nycr/images/nysky3.png');
+    background-repeat: no-repeat;
+    background-position : 0 0;
+    background-size: cover;
+
+
+}
